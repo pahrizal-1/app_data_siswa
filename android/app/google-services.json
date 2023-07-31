@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "421211095997",
+    "firebase_url": "https://crud-firebase-4b524-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-firebase-4b524",
+    "storage_bucket": "crud-firebase-4b524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421211095997:android:36a3740696563f8b77c8d4",
+        "android_client_info": {
+          "package_name": "com.example.app_data_siswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoH1SJrJ3qmDgwS1tuNBHTlo5xblFOLIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421211095997-qh014ur72d1f9cihcd4io44lb17q22gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realteamDarabase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421211095997:android:2cdb3acedf651ff177c8d4",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoH1SJrJ3qmDgwS1tuNBHTlo5xblFOLIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421211095997-qh014ur72d1f9cihcd4io44lb17q22gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realteamDarabase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421211095997:android:83817c14b946b56f77c8d4",
+        "android_client_info": {
+          "package_name": "com.example.realteam_darabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoH1SJrJ3qmDgwS1tuNBHTlo5xblFOLIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421211095997-m1qv97r6tqge6nmfh3tuvu5q0ra48vrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421211095997-qh014ur72d1f9cihcd4io44lb17q22gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realteamDarabase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
